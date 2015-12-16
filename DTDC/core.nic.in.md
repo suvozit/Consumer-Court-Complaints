@@ -109,7 +109,7 @@ I cliam for 4,200 INR.
 Yes
 
 ### Attach supporting documents ( If you have any) :
-![](https://raw.githubusercontent.com/suvozit/Consumer-Court-Complaints/master/DTDC/Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
+![./Scrennshots/Screenshot%202015-11-25%2014.58.39.png](./Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
 
 
 # Your complaint has been filed on Date: 16 Dec 2015
