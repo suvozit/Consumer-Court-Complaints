@@ -12,7 +12,7 @@ Courier
 DTDC
 
 ### Complaint About
-Lost consignment
+Missing of parcel
 
 ### Brand Name
 DTDC
@@ -49,9 +49,6 @@ AP
 080-25365032, 25365039
 
 ### Complaint Text. Please enter further details with respect to the complaint. (Maximum 2000 characters) *
-
-#### Problem
-Missing of parcel
 
 #### 1. Name of Transaction Post Office 
 DTDC Pune
@@ -93,7 +90,8 @@ P34566050
 
 
 ### Consequences. Describe the economic or physical damage that resulted.(Maximum 2000 characters)
-I lost a working day to track the status of the parcel.
+- I lost a working day to track the status of the parcel.
+- The parcel was a gift which led to emotional torment
 
 ### What relief do you want.(Maximum 2000 characters)
 I want the compensation including:
@@ -109,3 +107,6 @@ I cliam for 4,200 INR.
 
 ### Have you earlier logged the gerivance to the above organisation of the same subject
 Yes
+
+### Attach supporting documents ( If you have any) :
+![](./Screenshots/Screenshot 2015-11-25 14.58.39.png)
