@@ -1,3 +1,8 @@
+```
+Your complaint has been filed on Date: 16 Dec 2015
+Please note down your complaint ID: 204062.3.2015  for further assistance.
+```
+
 # The Anti- Consumer Product or Service
 
 ## Information About Brand/Dealer
@@ -111,6 +116,3 @@ Yes
 ### Attach supporting documents ( If you have any) :
 ![./Scrennshots/Screenshot%202015-11-25%2014.58.39.png](./Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
 
-
-# Your complaint has been filed on Date: 16 Dec 2015
-Please note down your complaint ID: 204062.3.2015  for further assistance.
