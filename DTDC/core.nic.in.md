@@ -109,4 +109,4 @@ I cliam for 4,200 INR.
 Yes
 
 ### Attach supporting documents ( If you have any) :
-![](./Screenshots/Screenshot 2015-11-25 14.58.39.png)
+![](https://raw.githubusercontent.com/suvozit/Consumer-Court-Complaints/master/DTDC/Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
