@@ -31,3 +31,6 @@ Address : NO.1/1, I MAIN, I CROSS, OPP BATA, SHOW ROOM, MADIWALA EXTN. HOSUR ROA
 Pincode : 560068
 Phone : 08025502850
 Email : hubmgr.madiwala@dtdc.com
+
+
+Akosha complaint id: 3508388
