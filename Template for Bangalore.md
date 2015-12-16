@@ -49,7 +49,8 @@ The complaint submits as follows:
   ```
 7. The complaint further submits that the opposite party has declined to respond both to online request for replacement made by complainant and subsequent to online complaint made at CORE too. The complainant is stuck with a non-working product and unable to buy an alternative product either till this complaint is resolved. This amounts to defect in product and deficiency of service under the consumer protection act. The relevant provision Sections 2(f) and 2(g) under the consumer protection act 1986 are noted as follows:
   
-  (f) _"defect"_ means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods;
+  (f) _"defect"_ means any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods;  
+  
   (g) _"deficiency"_ means any fault, imperfection, shortcoming or inade­quacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service;
  
 8. The complainant further submits that he has not preferred any complaint for the same cause of action before any forum/court or any other authority for the relief.
@@ -58,13 +59,13 @@ The complaint submits as follows:
  
 Wherefore, the complainant above named most respectfully prays that this Hon’ble Forum may be pleased to:-
  
-#### RELIEF SOUGHT:
+### RELIEF SOUGHT:
 1. Direct the opposite party to pay a sum of **Rs XXXX** to the complainant for defect of product and deficienty of service, for the harassment and wasted time, and not being able to buy and use any alternative product either.
 2. Direct the opposite party to pay interest at the rate of 9-5% per annum from the date of closure till date of realization on Rs XXXX.
 3. Direct the opposite party to pay the cost of the proceedings and
 4. Grant such other reliefs as this Hon’ble forum deems fit to grant/award in the circumstances of the case, in the interest of justice and equity.
- 
-#### Complainant
+   
+Complainant
 
 ### VERIFICATION
 I, PUT NAME HERE, the complainant above named do hereby verify and declare that what is stated above are true and correct to the best of my knowledge, belief and information.  
