@@ -110,3 +110,7 @@ Yes
 
 ### Attach supporting documents ( If you have any) :
 ![](https://raw.githubusercontent.com/suvozit/Consumer-Court-Complaints/master/DTDC/Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
+
+
+# Your complaint has been filed on Date: 16 Dec 2015
+Please note down your complaint ID: 204062.3.2015  for further assistance.
