@@ -97,6 +97,7 @@ I lost a working day to track the status of the parcel.
 
 ### What relief do you want.(Maximum 2000 characters)
 I want the compensation including:
+
 1. Price of the product
 2. Compensation for my efort and loss of time
 
