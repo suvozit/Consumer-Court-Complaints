@@ -1,12 +1,12 @@
 # Product info: Zippo lighter
 Price amazon.in: 3,500.00 INR (http://www.amazon.in/gp/product/B0074G4Y0K/)  
 
-# Shipment Details
+## Shipment Details
 Consignment number: P34566050
 
 Case id: 01126813
 
-# Shipment timeline 
+## Shipment timeline 
 - Nov 06, 2015: Shipment booked
 - Nov 08, 2015: Shipment arrived at DTDC Facility (MADIWALA BRANCH,BANGALORE)
 - Nov 19, 2015: I registered a complaint on phone (080-3300-4444) (Case id: 01126813). But the customer care behaved very irresponsibly and didn't took any steps for the case logged.
@@ -17,18 +17,18 @@ Case id: 01126813
 - Nov 26, 2015: Mohan Raj ask for my details and forwared the case to Moumita Sanyal (MGR CSS-Pune) (moumitasanyal@dtdc.com). But I didn't receive any relpy from her.
 - Dec 02, 2015: I was worried and send a mail to Mohan Raj. Moumita Sanyal forwarded the case to Jyoti. Others ccd: claims.pnq@dtdc.com; CUSTOMER SUPPORT (customersupport@dtdc.com); Roopa Ravikumar (CSS MGR-BLR) (Roopa.ravikumar@dtdc.com); HUB MANAGER MADIWALA (hubmgr.madiwala@dtdc.com).
 
-# DTDC Contact Information
-Office Name : PUNE CAMP MASTER FRANCHISEE
-Address : shop no.6/7/8,parvez complex,ground floor,, SHANKER SETH ROAD,opp. dhobighat,
-Pincode : 411042
-Phone : 02065113999
-Email : branchpnq.camp@dtdc.com
+## DTDC Contact Information
+### Office Name : PUNE CAMP MASTER FRANCHISEE  
+Address : shop no.6/7/8,parvez complex,ground floor,, SHANKER SETH ROAD,opp. dhobighat,  
+Pincode : 411042  
+Phone : 02065113999  
+Email : branchpnq.camp@dtdc.com  
 
-Office Name : MADIWALA BRANCH
-Address : NO.1/1, I MAIN, I CROSS, OPP BATA, SHOW ROOM, MADIWALA EXTN. HOSUR ROAD, BANGALORE
-Pincode : 560068
-Phone : 08025502850
-Email : hubmgr.madiwala@dtdc.com
+### Office Name : MADIWALA BRANCH  
+Address : NO.1/1, I MAIN, I CROSS, OPP BATA, SHOW ROOM, MADIWALA EXTN. HOSUR ROAD, BANGALORE  
+Pincode : 560068  
+Phone : 08025502850  
+Email : hubmgr.madiwala@dtdc.com  
 
 
 Akosha complaint id: 3508388
