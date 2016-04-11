@@ -1,5 +1,4 @@
 # Product info: Zippo lighter
-Price amazon.com: 22.31 USD (http://www.amazon.com/dp/B0074G4Y0K)  
 Price amazon.in: 3,500.00 INR (http://www.amazon.in/gp/product/B0074G4Y0K/)  
 
 # Shipment Details
