@@ -1,8 +1,11 @@
 # Product info: Zippo lighter
 Price amazon.in: 3,500.00 INR (http://www.amazon.in/gp/product/B0074G4Y0K/)  
+![](https://raw.githubusercontent.com/suvozit/Consumer-Court-Complaints/master/DTDC/Scrennshots/71r6nuc-pNL._SL1011_.jpg)
 
 ## Shipment Details
 Consignment number: P34566050
+
+![](https://raw.githubusercontent.com/suvozit/Consumer-Court-Complaints/master/DTDC/Scrennshots/Screenshot%202015-11-25%2014.58.39.png)
 
 Case id: 01126813
 
