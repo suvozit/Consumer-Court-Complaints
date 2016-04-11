@@ -1,7 +1,6 @@
-# Product info:
-Zippo lighter (http://www.amazon.com/Zippo-Ace-of-Spades-Lighter/dp/B0074G4Y0K/ref=sr_1_1?ie=UTF8&qid=1450176427)
-Price amazon.com: 22.31 USD (1490.74 INR)
-Price amazon.in: 2,684.00 INR (http://www.amazon.com/Zippo-Ace-of-Spades-Lighter/dp/B0074G4Y0K/ref=sr_1_1?ie=UTF8&qid=1450176427)
+# Product info: Zippo lighter
+Price amazon.com: 22.31 USD (http://www.amazon.com/dp/B0074G4Y0K)  
+Price amazon.in: 3,500.00 INR (http://www.amazon.in/gp/product/B0074G4Y0K/)  
 
 # Shipment Details
 Consignment number: P34566050
