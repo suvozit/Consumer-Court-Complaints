@@ -33,5 +33,11 @@ Pincode : 560068
 Phone : 08025502850  
 Email : hubmgr.madiwala@dtdc.com  
 
+- **Mohan Raj**, CSS Bangalore 
+  8861486237
+- **Moumita Sanyal**, CSS Pune
+  8828007462
+- **Vara Laxmi**, Corporate Office, Bangalore
+  vara@dtdc.com, 9900014152
 
 Akosha complaint id: 3508388
